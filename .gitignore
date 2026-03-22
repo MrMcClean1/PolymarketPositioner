@@ -1,0 +1,25 @@
+# Environment
+.env
+
+# Database
+*.db
+*.db-wal
+*.db-shm
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
